@@ -1,0 +1,24 @@
+.home { 
+    text-align: center;
+}
+
+.home button{
+    background-color: yellow;
+
+}
+
+.home img{
+    width: 400px;
+}
+
+.steak{
+    text-align: center;
+}
+
+.steak ul{
+    color: red;
+}
+
+.steak ol{
+    background-color: aquamarine;
+}
